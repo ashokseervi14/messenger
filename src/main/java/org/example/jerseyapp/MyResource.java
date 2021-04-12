@@ -9,7 +9,7 @@ import javax.ws.rs.core.MediaType;
  * Root resource (exposed at "myresource" path)
  */
 
-//initail Setup github
+//initail Setup github hello from system
 @Path("myresource")
 public class MyResource {
 
